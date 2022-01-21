@@ -1,4 +1,3 @@
-# VIM personal config
+# Init personal config
 
-## Requirements
-- Homebrew
+## 
